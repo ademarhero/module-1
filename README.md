@@ -1,2 +1,2 @@
 # module-1
-Escola britânica de artes criativas &amp; tecnologia 1rst class
+Escola britânica de artes criativas & tecnologia 1st class
